@@ -1,0 +1,57 @@
+html
+{
+    scroll-behavior:smooth;
+}
+.menu
+{
+list-style: none;
+font-family: 'Great Vibes', cursive;
+position: fixed;
+top:0px;
+margin-top:0px;
+z-index:10;
+cursor: pointer;
+width:100%;
+background-image:url("https://media.istockphoto.com/photos/green-leaves-for-background-and-wallpaper-picture-id1221724425?b=1&k=6&m=1221724425&s=170667a&w=0&h=5F1AXwSTehKG9Z8PY415SX5HG4Kh-oyePi7ajef1N60=");
+text-align:center;
+}
+.links
+{
+    float:left;
+    color:#fff;
+    padding-bottom:5px;
+    padding-left: 9px;
+    padding-top: 5px;
+    padding-right: 5px;
+    font-size:50px;
+    text-align:center;
+}
+.links:hover
+{
+    background-image:url("https://image.shutterstock.com/image-photo/green-leaves-backgroundnature-background-wallpaper-260nw-1677933700.jpg");
+}
+#home
+{
+    text-align: center;
+    background-image:url("https://images.squarespace-cdn.com/content/v1/55cfb535e4b061baebe310df/1587472623697-IC8B3J3ZIZI0AMIE7U8G/sky+photo+for+website+home+page.jpeg?format=2500w");
+}
+#gif
+{
+    height:700px;
+    width: 1250px;
+}
+img
+{
+  height:200px;
+  width: 400px;
+}
+#Grids
+{
+ background-image: url("https://www.thoughtco.com/thmb/Zya6PS3m6XjRAmVo1HONvY9DW_A=/3865x2174/smart/filters:no_upscale()/abstract-paper-flower-pattern-656688606-5acfba2eae9ab80038461ca0.jpg");
+}
+body
+{
+  text-align:center;
+}
+
+
